@@ -1,0 +1,33 @@
+.page-header {
+    background-image:url(../saybrook1.jpg);
+    background-size:auto;
+    background-repeat:no-repeat;
+    background-position:center;
+    overflow:visible;
+    height:285px;
+}
+.imgback {
+    background-size:auto;
+    background-repeat:no-repeat;
+    background-position:center;
+    overflow:visible;
+}
+.pgtitle {
+    padding-top:100px;
+}
+span.date {
+    background-color:#2f2f4f;
+    color:#FFFFFF;
+}
+span.names {
+    background-color:#FFFFFF;
+    color:#2f2f4f;
+}
+.pontoon {
+    background-image:url(../pontoonjnj.jpg);
+    background-size:auto;
+    background-repeat:no-repeat;
+    background-position:center;
+    height:500px;
+    
+}
